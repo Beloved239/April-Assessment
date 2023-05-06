@@ -1,0 +1,14 @@
+    Our IT Company wanted to develop a House Rental Management System, a software
+application for managing rental properties, which provides CRUD operations for adding,
+updating, deleting, and viewing properties.
+
+It deals with three types of properties:
+1.Apartments,
+2.Houses and
+3. Condos.
+Each has its own specific details.
+
+    This system-Application is designed using OOP principles to ensure maintainability,
+extensibility, and scalability, and to accommodate future requirements.
+
+    The system also have a report based on some condition available on the records that was created.
